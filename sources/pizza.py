@@ -35,5 +35,9 @@ RECIPES = {
     'mediterranea': {
         'ingredients': {'mozzarella': 3, 'pepper': 4, 'onion': 3},
         'price': 11,
+    },
+    'WestInd': {
+        'ingredients': {'oregano': 2, 'parmesan': 2, 'onion': 5, 'mushroom': 2},
+        'price': 13,
     }
 }
